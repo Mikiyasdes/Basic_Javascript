@@ -1,0 +1,4 @@
+function timesFive(num1){
+  return num1*5;
+}
+console.log(timesFive(5));

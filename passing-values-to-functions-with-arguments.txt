@@ -1,0 +1,8 @@
+function functionWithArgs(a,b) {
+console.log(a+b);
+}
+functionWithArgs(1,2);
+function unctionWithArgs(c,d){
+  console.log(c+d);
+}
+functionWithArgs(7,9);
