@@ -1,0 +1,8 @@
+// Setup
+const myDog = {
+  "name": "Coder",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["Everything"]
+};
+myDog["name"] = "Happy Coder";
